@@ -6,7 +6,7 @@ Welcome to Matchify, a Tinder clone crafted with JavaScript and React Native, ba
 
 - **Cross-Platform Compatibility:** Developed with React Native to ensure a consistent and responsive experience across various devices.
 - **Firebase Integration:** Leverages Firebase for efficient data storage, providing real-time updates and scalable backend support.
-- **Smart Matching Algorithm:** Implements a sophisticated matching algorithm, connecting users based on preferences and compatibility.
+- **Smart Matching Algorithm:** Implements sophisticated matching algorithm, connecting users based on preferences and compatibility.
 - **Tailwind Styling:** Enhances the user interface with Tailwind CSS, offering a visually appealing and well-designed experience.
 
 ## Getting Started
